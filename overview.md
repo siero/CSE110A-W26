@@ -26,7 +26,8 @@ occuring in computing today, these are valuable skills.
 We have a great teaching staff this quarter! All of them have lots of experience in compilers. 
 Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TAs*: Rithik Sharma <rithik@ucsc.edu>, Yanwen Xu <yxu83@ucsc.edu>
+
+- *Grad TA*: Zheyuan Chen <zchen406@ucsc.edu>
 - *Undergrad Mentors/Graders*: (TBD 5 staff members)
 
 ## Necessary Background
@@ -126,10 +127,8 @@ to the schedule. Please forgive any abruptness.
 
 | Day and Time | TA | location/Zoom Link|
 |---|---|---|
-| <Weekday> ? - ? AM/PM | Rithik | E2-???/Virtually |
-| <Weekday> ? - ? AM/PM | Yanwen | E2-???/Virtually |
-| <Weekday> ? - ? AM/PM | Rithik | E2-???/Virtually |
-| <Weekday> ? - ? AM/PM | Yanwen | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Zheyuan   | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Zheyuan   | E2-???/Virtually |
 
 ### Mentoring Hours:
 
