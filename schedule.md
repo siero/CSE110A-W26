@@ -19,6 +19,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | Journey into a Compiler 	| [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) | 
 | Thu, Jan 6       | 						 | 	 | EAC Chapter 1
 |------------------|-------------------|--------------------------------------------|
+|------------------|-------------------|--------------------------------------------|
 ### Module 2: Parsing
 | Date             | Topic    | Slides |   Readings
 |------------------|-------------------|--------------------------------------------|
