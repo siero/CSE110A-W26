@@ -4,11 +4,11 @@ layout: single
 ---
 
 
-### Welcome to **CSE110A:** _Fundamentals of Compiler Design_, Spring 2025 Quarter at UCSC!
+### Welcome to **CSE110A:** _Fundamentals of Compiler Design_, Winter 2026 Quarter at UCSC!
 
 - **Instructor:** [Marcelo Siero](https://campusdirectory.ucsc.edu/cd_detail?uid=msiero2)
-- **Time:** Tuesdays and Thursdays:  05:20 - 06:55 PM
-- **Location:** Stevenson Acad 175
+- **Time:** Tuesdays and Thursdays:  07:10 - 08:45 PM
+- **Location:** Classroom Unit 1
 
 Hello and welcome to the fundamentals of compiler design class! 
 
