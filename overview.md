@@ -40,11 +40,8 @@ mentoring sessions they provide.
 This class will be split into 4 modules, each of which are roughly two weeks:
 
 * **Module 1: Lexing** 
-
 * **Module 2: Parsing** 
-
 * **Module 3: Intermediate Representations** 
-
 * **Module 4: Optimizations**  
 
 
