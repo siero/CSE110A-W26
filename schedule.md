@@ -14,7 +14,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tue, 1/6     | Administrative (v4) 			| [slides](./PDFS/C110-01A-Admin-v4.pdf) | [Overview page](https://siero.github.io/CSE110A-W26/overview.html) |
+| Tue, 1/6     | Administrative (v5) 			| [slides](./PDFS/C110-01A-Admin-v5.pdf) | [Overview page](https://siero.github.io/CSE110A-W26/overview.html) |
 | 				   | Introduction to Compilers 	| [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) |
 | 				   | Journey into a Compiler 	| [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) |
 | Thu, 1/8         | 						    | 	 | EAC Chapter 1   
