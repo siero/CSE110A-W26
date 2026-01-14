@@ -12,17 +12,18 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 ### Module 1: Lexing
 
-| Date             | Topic    | Slides |   Readings
-|------------------|----------|--------|----------------
-| Tue, 1/6     | Administrative (v5) 			| [slides](./PDFS/C110-01A-Admin-v5.pdf) | [Overview page](https://siero.github.io/CSE110A-W26/overview.html) |
-| 				   | Introduction to Compilers 	| [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) |
-| 				   | Journey into a Compiler 	| [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) |
-| Thu, 1/8         | Introduction to Lexical Analysis  | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf) | EAC Chapter 1
-| 				   | Lexer: Naive      | [slides](./PDFS/C110-03A-lexers-naive.pdf) | 
-|------------------|-------------------|--------------------------------------------|
-| Tue, 1/13   | <TBD>    | <TBD>  | <TBD> 
-| Thu, 1/15   | <TBD>    | <TBD>  | <TBD>
-|-------------|-------------------|--------------------------------------------|
+| Date             | Topic                       | Slides                                            |   Readings
+|------------------|-----------------------------|---------------------------------------------------|----------------
+| Tue, 1/6         | Administrative (v5) 	     | [slides](./PDFS/C110-01A-Admin-v5.pdf)            | [Overview page](https://siero.github.io/CSE110A-W26/overview.html) |
+| 				   | Introduction to Compilers 	 | [slides](./PDFS/C110-01B-Intro2Compilers1.pdf)    |
+| 				   | Journey into a Compiler  	 | [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) |
+| Thu, 1/8         | Intro to Lexical Analysis   | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf)    | EAC Chapter 1
+| 				   | Lexer: Naive (version 3)    | [slides](./PDFS/C110-03A-lexers-naive-v3.pdf)     | 
+|------------------|-----------------------------|---------------------------------------------------|
+| Tue, 1/13        | Lexer: Regular Expressions] | [slides](./PDFS/C110-04A-lexers-re-v2.pdf)        | 
+| 				   | Lexer: EM-SOS-NG            | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG.pdf)    | 
+| Thu, 1/15        | <TBD>                       | <TBD>                                             | <TBD>
+|------------------|-----------------------------|---------------------------------------------------|----------------
 | Tue, 1/20   | <TBD>    | <TBD>  | <TBD>
 | Thu, 1/22   | <TBD>    | <TBD>  | <TBD>
 |-------------|-------------------|--------------------------------------------|
