@@ -20,7 +20,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, 1/8         | Intro to Lexical Analysis   | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf)    | EAC Chapter 1
 | 				   | Lexer: Naive (version 3)    | [slides](./PDFS/C110-03A-lexers-naive-v3.pdf)     | 
 |------------------|-----------------------------|---------------------------------------------------|
-| Tue, 1/13        | Lexer: Regular Expressions] | [slides](./PDFS/C110-04A-lexers-re-v2.pdf)        | 
+| Tue, 1/13        | Lexer: Regular Expressions] | [slides](./PDFS/C110-04A-lexers-re-v2.pdf)        | [docs on REs](https://docs.python.org/3/howto/regex.html)
 | 				   | Lexer: EM-SOS-NG            | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG.pdf)    | 
 | Thu, 1/15        | <TBD>                       | <TBD>                                             | <TBD>
 |------------------|-----------------------------|---------------------------------------------------|----------------
