@@ -35,6 +35,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date        | Topic    | Slides |   Readings                                 | 
 |-------------|-------------------|--------------------------------------------|  
 | Thu, 1/22   | CFG,BNF,Derivations & Parse Trees | [slides](PDFS/C110-07A-CFG-Ambig-rev3.pdf) | EAC Chapt. 3.2, 3.3 (first half) |
+| 			  | Precedence and Associativity      | [slides](PDFS/C110-08-PREC-ASSOC.pdf)      | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | <TBD>    | <TBD>  | <TBD>                                      | 
 | Thu, 1/29   | <TBD>    | <TBD>  | <TBD>                                      | 
