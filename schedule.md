@@ -24,7 +24,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | Lexer: EM-SOS-NG            | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG.pdf)    | 
 | Thu, 1/15        | Lexer: EM-SOS-NG Review     | [slides](./PDFS/C110-05B-REVIEW-RE-Naive-EM-SOS-NG.pdf) | |
 |------------------|-----------------------------|---------------------------------------------------|----------------
-| Tue, 1/20        | Lexer Actions               | [slides](./PDFS/C110-06A-lexer-actions-v3.pdf)	 | EAC Chapter 3.2, 3.3 (first half) |
+| Tue, 1/20        | Lexer Actions               | [slides](./PDFS/C110-06A-lexer-actions-v3.pdf)	 | EAC Chap. 3.2, 3.3 (first half) |
 | 				   | Quiz2 Warnings & Errors Review   | [slides](QUIZZES/Quiz-02-Warnings-Errors-Equiv.pdf) 	| | 
 | 				   | Quiz3 Intro to Lexers Review     | [slides](QUIZZES/Quiz-03-Intro-Lexers.pdf) 				| | 
 | 				   | Quiz3 Regular Expr Review        | [slides](QUIZZES/Quiz-04-REs.pdf) 						| | 
@@ -34,7 +34,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date        | Topic    | Slides |   Readings                                 | 
 |-------------|-------------------|--------------------------------------------|  
-| Thu, 1/22   | CFG,BNF,Derivations & Parse Trees | [slides](PDFS/C110-07A-CFG-Ambig-rev3.pdf) | |
+| Thu, 1/22   | CFG,BNF,Derivations & Parse Trees | [slides](PDFS/C110-07A-CFG-Ambig-rev3.pdf) | EAC Chapt. 3.2, 3.3 (first half) |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | <TBD>    | <TBD>  | <TBD>                                      | 
 | Thu, 1/29   | <TBD>    | <TBD>  | <TBD>                                      | 
