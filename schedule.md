@@ -28,12 +28,13 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | Quiz2 Warnings & Errors Review   | [slides](QUIZZES/Quiz-02-Warnings-Errors-Equiv.pdf) 	| | 
 | 				   | Quiz3 Intro to Lexers Review     | [slides](QUIZZES/Quiz-03-Intro-Lexers.pdf) 				| | 
 | 				   | Quiz3 Regular Expr Review        | [slides](QUIZZES/Quiz-04-REs.pdf) 						| | 
-| Thu, 1/22        | <TBD>    					 | <TBD>  											 | <TBD> |
 |-------------|-------------------|--------------------------------------------|
 
 ### Module 2: Parsing  
 
 | Date        | Topic    | Slides |   Readings                                 | 
+|-------------|-------------------|--------------------------------------------|  
+| Thu, 1/22   | CFG,BNF,Derivations & Parse Trees | [slides](PDFS/C110-07A-CFG-Ambig-rev3.pdf) | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | <TBD>    | <TBD>  | <TBD>                                      | 
 | Thu, 1/29   | <TBD>    | <TBD>  | <TBD>                                      | 
