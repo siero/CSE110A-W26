@@ -38,7 +38,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 			  | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)        | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)      | |
-| Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
+| Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/03   | <TBD>    | <TBD>  | <TBD>                                      | 
 | Thu, 2/05   | <TBD>    | <TBD>  | <TBD>                                      | 
