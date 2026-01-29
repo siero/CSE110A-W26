@@ -35,7 +35,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Date        | Topic    | Slides |   Readings                                 | 
 |-------------|-------------------|--------------------------------------------|  
 | Thu, 1/22   | CFG,BNF,Derivations & Parse Trees | [slides](PDFS/C110-07A-CFG-Ambig-rev3.pdf) | EAC Chapt. 3.2, 3.3 (first half) |
-| 			  | Precedence and Associativity      | [slides](PDFS/C110-08-PREC-ASSOC.pdf)        | |
+| 			  | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)        | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)      | |
 | Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
