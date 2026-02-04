@@ -40,7 +40,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, 1/27   | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)      ||
 | Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
 |-------------|-------------------|--------------------------------------------|  
-| Tue, 2/03   | TOP DOWN PARSING, LL(1), Recursive Descent (ver2) | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [left-indirect-recursion pdf](LEFT-RECURSE-ELIM/left-rec-elim.pdf) | | 
+| Tue, 2/03   | TOP DOWN PARSING, LL(1), Recursive Descent (ver2) | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [left-indirect-recursion pdf](PDFS/LEFT-RECURSE-ELIM/left-rec-elim.pdf) | | 
 |             | WARSHALL'S ALGORITHM | [slides](PDFS/C110-09A-WARSHALLS-ALGORITHM.pdf) |  |
 |             | SCOPE                | [slides](PDFS/C110-10-SCOPE.pdf)                |  |
 | Thu, 2/05   | <TBD>    | <TBD>  | <TBD>                                      | 
