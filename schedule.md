@@ -41,10 +41,12 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/03   | TOP DOWN PARSING, LL(1), Recursive Descent (ver2) | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [left-indirect-recursion pdf](PDFS/LEFT-RECURSE-ELIM/left-rec-elim.pdf) | | 
-|             | WARSHALL'S ALGORITHM | [slides](PDFS/C110-09A-WARSHALLS-ALGORITHM.pdf) |  |
-|             | SCOPE                | [slides](PDFS/C110-10-SCOPE.pdf)                |  |
-| Thu, 2/05   | <TBD>    | <TBD>  | <TBD>                                      | 
-|-------------|-------------------|--------------------------------------------|  
+|             | WARSHALL'S ALGORITHM | [slides](PDFS/C110-09A-WARSHALLS-ALGORITHM.pdf)   |  |
+|             |                      | [Quiz-06 review](PDFS/Quiz-06-CFG-AMBIG-PREC.pdf) |  |
+| Thu, 2/05   |  SCOPE               | [slides](PDFS/C110-10-SCOPE.pdf)                  |  |
+|             | Bottom-Up Parsing    | [slides](PDFS/C110-11A-BOTTOM-UP-PARSING.pdf)     |  |
+|             |                      | [Quiz-07 review](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf) | |
+|-------------|----------------------|---------------------------------------------------|--|  
 
 ### Module 3: Intermediate representations  
 
