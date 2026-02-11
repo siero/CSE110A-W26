@@ -52,7 +52,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date        | Topic             | Slides |   Readings                        | 
 |-------------|-------------------|--------------------------------------------|  
-| Tue, 2/10   | MIDTERM REVIEW    | [slides](PDFS/PDFS/C110A-MIDTERM-REVIEW.pdf) | | 
+| Tue, 2/10   | MIDTERM REVIEW    | [slides](PDFS/C110A-MIDTERM-REVIEW.pdf) | | 
 |             | Quiz AMB/TOP-DOWN/REC-DESC | [Quiz-07](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf)   | |
 | Thu, 2/12   | <TBD>    | <TBD>  | <TBD>                                      | 
 |-------------|-------------------|--------------------------------------------|  
