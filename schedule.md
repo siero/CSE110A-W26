@@ -50,9 +50,10 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 ### Module 3: Intermediate representations  
 
-| Date        | Topic    | Slides |   Readings                                 | 
+| Date        | Topic             | Slides |   Readings                        | 
 |-------------|-------------------|--------------------------------------------|  
-| Tue, 2/10   | <TBD>    | <TBD>  | <TBD>                                      | 
+| Tue, 2/10   | MIDTERM REVIEW    | [slides](PDFS/PDFS/C110A-MIDTERM-REVIEW.pdf) | | 
+|             | Quiz AMB/TOP-DOWN/REC-DESC | [Quiz-07](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf)   | |
 | Thu, 2/12   | <TBD>    | <TBD>  | <TBD>                                      | 
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/17   | <TBD>    | <TBD>  | <TBD>                                      | 
