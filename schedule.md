@@ -58,6 +58,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/17   | PostOrder Traversal Example | [slides](PDFS/C110-POSTORDER-TRAVERSAL-EXAMPLE-rev2.pdf) | | 
 | 			  | IR & Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 |
+| 			  | Review of Floating-Point | [slides](PDFS/C110-M3-01A-Floating-Point.pdf) | |
 | Thu, 2/19   | <TBD>    | <TBD>  | <TBD>                                      | 
 |-------------|-------------------|--------------------------------------------|  
 
