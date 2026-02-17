@@ -38,7 +38,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 			  | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)        | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 1/27   | Precedence and Associativity (ver2) | [slides](PDFS/C110-08-PREC-ASSOC.pdf)      ||
-| Tue, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
+| Thu, 1/29   | TOP DOWN PARSING, LL(1), Recursive Descent | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [PLY Documentation](https://www.dabeaz.com/ply/ply.html) | |
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/03   | TOP DOWN PARSING, LL(1), Recursive Descent (ver2) | [slides](PDFS/C110-09-TOP-DOWN-PARSING.pdf) | [left-indirect-recursion pdf](PDFS/LEFT-RECURSE-ELIM/left-rec-elim.pdf) | | 
 |             | WARSHALL'S ALGORITHM | [slides](PDFS/C110-09A-WARSHALLS-ALGORITHM.pdf)   |  |
@@ -54,9 +54,10 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/10   | MIDTERM REVIEW    | [slides](PDFS/C110A-MIDTERM-REVIEW.pdf) | | 
 |             | Quiz AMB/TOP-DOWN/REC-DESC | [Quiz-07](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf)   | |
-| Thu, 2/12   | <TBD>    | <TBD>  | <TBD>                                      | 
+| Thu, 2/12   | MIDTERM           | | | 
 |-------------|-------------------|--------------------------------------------|  
-| Tue, 2/17   | <TBD>    | <TBD>  | <TBD>                                      | 
+| Tue, 2/17   | PostOrder Traversal Example | [slides](PDFS/C110-POSTORDER-TRAVERSAL-EXAMPLE-rev2.pdf) | | 
+| 			  | IR & Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 |
 | Thu, 2/19   | <TBD>    | <TBD>  | <TBD>                                      | 
 |-------------|-------------------|--------------------------------------------|  
 
