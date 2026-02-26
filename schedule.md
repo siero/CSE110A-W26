@@ -63,9 +63,9 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |             | AST and Type Systems | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf) |  | 
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/24   | AST,Type,Inference,Functions | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
-|             | IR and 3-address code | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE.pdf)| EAC Chapter 5.3 |
+|             | IR and 3-address code (rev2) | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE.pdf)| EAC Chapter 5.3 |
 |-------------|-------------------|--------------------------------------------|  
-| Thu, 2/26   | <TBD>    | <TBD>  | <TBD>                                      | 
+| Thu, 2/26   | IR and 3-address code (rev2) | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE.pdf)| |
 |-------------|-------------------|--------------------------------------------|  
 
 ### Module 4: Optimization and Other Topics  
