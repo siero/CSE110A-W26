@@ -64,20 +64,22 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |-------------|-------------------|--------------------------------------------|  
 | Tue, 2/24   | AST,Type,Inference,Functions | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
 |             | IR and 3-address code (rev2) | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE.pdf)| EAC Chapter 5.3 |
-|-------------|-------------------|--------------------------------------------|  
+|-------------|-------------------|--------------------------------------------|  |
 | Thu, 2/26   | IR and 3-address code (rev2) | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE.pdf)| |
 |-------------|-------------------|--------------------------------------------|  
 
 ### Module 4: Optimization and Other Topics  
 
-| Date        | Topic    | Slides |   Readings                                 | 
-|-------------|-------------------|--------------------------------------------|  
-| Tue, 3/03   | <TBD>    | <TBD>  | <TBD>                                      | 
-| Thu, 3/05   | <TBD>    | <TBD>  | <TBD>                                      | 
-|-------------|-------------------|--------------------------------------------|  
-| Tue, 3/10   | <TBD>    | <TBD>  | <TBD>                                      | 
-| Thu, 3/12   | <TBD>    | <TBD>  | <TBD>                                      | 
-|-------------|-------------------|--------------------------------------------|  
+| Date        | Topic              | Slides                                          | Readings        |
+|-------------|--------------------|-------------------------------------------------|                 |
+| Tue, 3/03   | Quiz09-TYPE-IR-GEN | [slides](PDFS/Quiz-09-TYPE-AND-IR-GEN.pdf)      |                 |
+|             | Optimizations      | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS.pdf)    | EAC Chapter 8.1 |
+|             | Basic Blocks, LVN  | [slides](PDFS/C110-M4-01B-BASIC-BLOCKS-LVN.pdf) |                 | 
+| Thu, 3/05   | <TBD>              | <TBD>                                           |                 | 
+|-------------|--------------------|-------------------------------------------------|-----------------|
+| Tue, 3/10   | <TBD>              | <TBD>                                           | <TBD>           | 
+| Thu, 3/12   | <TBD>              | <TBD>                                           | <TBD>           | 
+|-------------|--------------------|-------------------------------------------------|-----------------| 
 
 ## Final  
 
