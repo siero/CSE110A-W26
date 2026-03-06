@@ -71,11 +71,12 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 ### Module 4: Optimization and Other Topics  
 
 | Date        | Topic              | Slides                                          | Readings        |
-|-------------|--------------------|-------------------------------------------------|                 |
+|-------------|--------------------|-------------------------------------------------|-----------------|
 | Tue, 3/03   | Quiz09-TYPE-IR-GEN | [slides](PDFS/Quiz-09-TYPE-AND-IR-GEN.pdf)      |                 |
 |             | Optimizations      | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS.pdf)    | EAC Chapter 8.1 |
 |             | Basic Blocks, LVN  | [slides](PDFS/C110-M4-01B-BASIC-BLOCKS-LVN.pdf) |                 | 
-| Thu, 3/05   | <TBD>              | <TBD>                                           |                 | 
+| Thu, 3/05   | Loop Unrolling     | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)    |                 |
+|             | Constant Folding   | [slides](PDFS/C110-M4-03-CONST-FOLD.pdf)        |                 |
 |-------------|--------------------|-------------------------------------------------|-----------------|
 | Tue, 3/10   | <TBD>              | <TBD>                                           | <TBD>           | 
 | Thu, 3/12   | <TBD>              | <TBD>                                           | <TBD>           | 
