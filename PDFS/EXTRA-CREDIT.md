@@ -1,21 +1,30 @@
-# CSE110A W26: Extra Credit Ideas
+# CSE110A W26: HMWK5 Plus Extra Credit Ideas
 
 CSE110A: Introduction to Compiler Design   
 
-Extra Credit 1 (highest value): Doing HWK5A, POSSIBLY HWK5B as well.
-If we hand out a HWK5B you can do either or both.  More details coming.
-- these can be done in addition to the other extra credits below.
+HWK5: Covers the topic of Optimization involving 
+   Local Value Numbers, and Loop Unrolling.
+   You have one week to complete it.
+   It is worth 10% of your grade.
+   You will have one week to do it.
 
+HWK6: This one is Extra Credit: It is essentially a redo of HWK4 
+   except you will be generating valid LLVM IR Code which then
+   can become an executable that can work on your computer.
+   You will either need to use the docker file provided or install
+   LLVM for your computer to run it.  Completing this can 
+   add an extra 5% to your grade.
+   
 Additional Extra Credit: Do a minimum of 3 pages summary
   about any of the videos or topic write-ups below.
   You can use ChatGPT, but you need to include the questions
   and answer, and at least one paragraph of how you used it and why.   
 
 Additional Extra Credit: Giving a 5 minute talk (plus) on the last day 
-  of class on a topic you choose.   
+  of class (Thursday 3/12) on a topic you choose.   
 
 The grading details of the extra credit, are still being worked out.
-At present think of this as additiomal learning experience.   
+For the present timt think of it as additiomal learning experience.   
 
 The topics below are suggestions: A good source of interesting topics
 about compilers is the LLVM Channel in YouTube.  In a way the farther
