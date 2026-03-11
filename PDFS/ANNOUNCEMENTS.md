@@ -36,6 +36,6 @@
   - basic blocks, 
   - local value numbering, 
   - for loop analysis (loop unrolling).
-     - Control flow graphs (if we cover it).
+  - Control flow graphs
 
 
