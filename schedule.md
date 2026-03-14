@@ -88,9 +88,9 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |-------------|-------------------------|------------------------------------------------|-----------------|
 | Thu, 3/12   | Midterm/Final Review    | <TBD>                                          | <TBD>           | 
 |-------------|-------------------------|------------------------------------------------|-----------------| 
-|             | Review Module 1 Scanners      | [slides](C110-MIDTERM-FINAL-MOD1-REVIEW.pdf) |             | 
-|             | Review Module 2 Parsers       | [slides](C110-MIDTERM-FINAL-MOD2-REVIEW.pdf) |             | 
-|             | Review Module 3/4 IR & Optim  | [slides](C110-FINAL-MOD3-MOD4-REVIEW.pdf)    |             | 
+|             | Review Module 1 Scanners      | [slides](PDFS/C110-MIDTERM-FINAL-MOD1-REVIEW.pdf) |             | 
+|             | Review Module 2 Parsers       | [slides](PDFS/C110-MIDTERM-FINAL-MOD2-REVIEW.pdf) |             | 
+|             | Review Module 3/4 IR & Optim  | [slides](PDFS/C110-FINAL-MOD3-MOD4-REVIEW.pdf)    |             | 
 |-------------|-------------------------------|----------------------------------------------|-------------|
 
 ## Final Exam: Wed 3/18 8AM-11AM. 
