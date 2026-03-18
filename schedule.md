@@ -79,7 +79,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, 3/05   | Loop Unrolling     | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)    |                 |
 |             | Constant Folding   | [slides](PDFS/C110-M4-03-CONST-FOLD.pdf)        |                 |
 |             | EXTRA CREDIT DESCRIPTION rev.2 | [slides](PDFS/EXTRA-CREDIT.pdf)     |                 |
-|             | ANNOUNCEMENT/FINAL | [slides](PDFS/ANNOUNCENTS.pdf)                  |                 |
+|             | ANNOUNCEMENT/FINAL | [slides](PDFS/ANNOUNCEMENTS.pdf)                  |                 |
 |             | EC Presentations   | ['Click Here'](https://docs.google.com/spreadsheets/d/1Q_c_8us5aOHYYUo2nOJtEjQZ4ENBF_kNrbPHaQ_7Pvg/edit?usp=sharing) | |
 |-------------|--------------------|-------------------------------------------------|-----------------|
 | Tue, 3/10   | Quiz 10: LVM Loop Unrolling | [slides](PDFS/Quiz10-LVN-LOOP-UNROLL.pdf)  |             | 
