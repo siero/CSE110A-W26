@@ -56,7 +56,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |             | Quiz AMB/TOP-DOWN/REC-DESC | [Quiz-07](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf)   | |
 | Thu, 2/12   | MIDTERM           | | | 
 |-------------|-------------------|--------------------------------------------|  
-| Tue, 2/17   | PostOrder Traversal Example | [slides](PDFS/C110-POSTORDER-TRAVERSAL-EXAMPLE-rev2.pdf) | | 
+| Tue, 2/17   | PostOrder Traversal Example | [slides](PDFS/C110-POSTORDER-TRAVERSAL-EXAMPLE.pdf) | | 
 | 			  | IR & Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 |
 | 			  | Review of Floating-Point | [slides](PDFS/C110-M3-01A-Floating-Point.pdf) | |
 | Thu, 2/19   | Review Quiz 08 Symbols Tables |  |  | 
